@@ -1,0 +1,35 @@
+.text-justify
+{
+	padding: 20px 0px 3px 110px;
+	
+}
+.middle
+{
+	padding: 190px 0px 0px 70px;
+
+}
+.logo
+{
+	padding: 5px 0px 0px 20px;
+}
+.login_align
+{
+	border: dashed;
+	
+}
+.left_pic
+{
+	padding: 50px 5px 3px 20px;
+	width: 80%;
+	height: 100%;
+	border-radius: 70%;
+	opacity: 0.6;
+}
+.user_card
+{
+	width: 300px;
+	height: 300px;
+	font-size: 18px;
+	
+	
+}
