@@ -1,0 +1,16 @@
+.Menu-Bar
+{
+	overflow: hidden;
+  background-color: #333; 
+}
+.Menu-Bar a
+{
+	color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.Menu-Bar a:hover
+{
+	background-color: #0000b3;
+}

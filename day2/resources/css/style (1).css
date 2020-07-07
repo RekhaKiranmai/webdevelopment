@@ -1,0 +1,83 @@
+.name
+{
+	padding-top: 25px;
+	text-align: center;
+	font-family: serif;
+	color:#2e3094;
+}
+#faq
+{
+	text-align: center;
+	font-family: serif;
+	color:black;
+	font-size: 25px;
+}
+.faqbg
+{
+	background-color: #e6f9ff;
+}
+a
+{
+	text-align: center;
+	color:#2e3094;
+}
+.hi
+{
+  width: 25%;
+  background-color: white;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  border:5px solid white;
+  cursor: pointer;
+  box-shadow: 20px;
+  text-shadow: 20px;]
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+  align-self: : center;
+
+}
+.hiii
+{
+	display: inline;
+	padding:0%;
+}
+.box
+{
+	border:0px solid white;
+	border-spacing: auto;
+	padding:0px 0px 0px 250px;
+}
+#div1
+{
+	width: 295px;
+	height: 40px;
+  	object-fit: fill;
+  	box-sizing: border-box;
+	background-color:  #2e3094;
+	color:white;
+	text-align: center;
+	font-size: 10px;
+	margin: auto;
+	font-size:15px;
+  position: absolute;
+  top: 350;
+  left: 0;
+  bottom: 50;
+  right: 0;
+  padding: 2px;
+}
+#a
+{
+	text-align: center;
+	color:white;
+	display:inline-block;
+	background-color: black;
+	width:100%;
+	font-size: 10px;
+	height: auto;
+	padding:2%;
+}
